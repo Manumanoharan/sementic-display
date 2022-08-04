@@ -1,0 +1,24 @@
+.inline{
+    display: inline;
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 1px solid green;
+
+}
+
+.in-block{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 1px solid green;
+}
+
+.block{
+    display:block;
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 1px solid green;
+}
